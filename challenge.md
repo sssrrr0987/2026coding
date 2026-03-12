@@ -6,8 +6,12 @@
 ### 3334. Find the Maximum Factor Score of Array
 
 
-## two pointers challenge
+## Two pointers challenge
 
 ### 792. Number of Matching Subsequences
 ### 055. Shortest Way to Form String
 ### 2486. Append Characters to String to Make Subsequence
+
+## Sliding window
+### 644. Maximum Average Subarray II
+### 2090. K Radius Subarray Averages
