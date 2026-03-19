@@ -22,3 +22,6 @@
 ### 247. Strobogrammatic Number II
 ### 427. Construct Quad Tree
 ### 3122. Minimum Number of Operations to Satisfy Conditions
+### 1991. Find the Middle Index in Array
+### 2270. Number of Ways to Split Array
+### 2574. Left and Right Sum Differences
