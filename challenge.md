@@ -19,3 +19,6 @@
 ### 2598. Smallest Missing Non-negative Integer After Operations
 ### 3149. Find the Minimum Cost Array Permutation
 ### 3400. Maximum Number of Matching Indices After Right Shifts
+### 247. Strobogrammatic Number II
+### 427. Construct Quad Tree
+### 3122. Minimum Number of Operations to Satisfy Conditions
