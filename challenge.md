@@ -29,5 +29,5 @@
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
-### 2869. Minimum Operations to Collect Elements
+### 2869. Minimum Operations to Collect Elements 完成
 ### 1441. Build an Array With Stack Operations
