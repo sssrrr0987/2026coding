@@ -25,3 +25,8 @@
 ### 1991. Find the Middle Index in Array
 ### 2270. Number of Ways to Split Array
 ### 2574. Left and Right Sum Differences
+
+## Sorting,Matrix 建表跟prefix
+### 308. Range Sum Query 2D - Mutable
+### 2449. Minimum Number of Operations to Make Arrays Similar
+### 2869. Minimum Operations to Collect Elements
