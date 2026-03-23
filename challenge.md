@@ -10,6 +10,8 @@
 ### 792. Number of Matching Subsequences
 ### 055. Shortest Way to Form String
 ### 2486. Append Characters to String to Make Subsequence
+### 1711. Count Good Meals
+### 2491. Divide Players Into Teams of Equal Skill
 
 ## Sliding window
 ### 644. Maximum Average Subarray II
