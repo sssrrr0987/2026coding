@@ -36,3 +36,8 @@
 
 ## 矩陣旋轉
 ### 48. Rotate Image
+## DP 3維
+### 1594. Maximum Non Negative Product in a Matrix每日 完成
+### 769. Max Chunks To Make Sorted
+### 1561. Maximum Number of Coins You Can Get
+### 2089. Find Target Indices After Sorting Array
