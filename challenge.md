@@ -27,6 +27,11 @@
 ### 1991. Find the Middle Index in Array
 ### 2270. Number of Ways to Split Array
 ### 2574. Left and Right Sum Differences
+### 2906. Construct Product Matrix 每日 完成
+### 2031. Count Subarrays With More Ones Than Zeros
+### 2744. Find Maximum Number of String Pairs
+### 3379. Transformed Array
+
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
@@ -37,7 +42,7 @@
 ## 矩陣旋轉
 ### 48. Rotate Image
 ## DP 3維
-### 1594. Maximum Non Negative Product in a Matrix每日 完成
+### 1594. Maximum Non Negative Product in a Matrix 每日 完成
 ### 769. Max Chunks To Make Sorted
 ### 1561. Maximum Number of Coins You Can Get
 ### 2089. Find Target Indices After Sorting Array
