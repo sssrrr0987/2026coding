@@ -32,6 +32,9 @@
 ### 2744. Find Maximum Number of String Pairs
 ### 3379. Transformed Array
 
+## More challenges
+### 350. Intersection of Two Arrays II
+### 2248. Intersection of Multiple Arrays
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
