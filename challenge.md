@@ -32,7 +32,7 @@
 ### 2744. Find Maximum Number of String Pairs
 ### 3379. Transformed Array
 
-## More challenges
+## Hash Map / Set
 ### 350. Intersection of Two Arrays II
 ### 2248. Intersection of Multiple Arrays
 
