@@ -31,6 +31,9 @@
 ### 2031. Count Subarrays With More Ones Than Zeros
 ### 2744. Find Maximum Number of String Pairs
 ### 3379. Transformed Array
+### 2746. Decremental String Concatenation
+### 3548. Equal Sum Grid Partition II
+### 3737. Count Subarrays With Majority Element I
 
 ## Hash Map / Set
 ### 350. Intersection of Two Arrays II
