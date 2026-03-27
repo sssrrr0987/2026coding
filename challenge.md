@@ -4,7 +4,9 @@
 ### 1979. Find Greatest Common Divisor of Array
 ### 2413. Smallest Even Multiple
 ### 3334. Find the Maximum Factor Score of Array
-
+### 735. Asteroid Collision
+### 1066. Campus Bikes II
+### 2488. Count Subarrays With Median K
 ## Two pointers challenge
 
 ### 792. Number of Matching Subsequences
