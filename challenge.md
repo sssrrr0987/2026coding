@@ -18,6 +18,9 @@
 ## Sliding window
 ### 644. Maximum Average Subarray II
 ### 2090. K Radius Subarray Averages
+### 2571. Minimum Operations to Reduce an Integer to 0
+### 3180. Maximum Total Reward Using Operations I
+### 3176. Find the Maximum Length of a Good Subsequence I
 
 ## Prefix sum
 ### 2598. Smallest Missing Non-negative Integer After Operations
