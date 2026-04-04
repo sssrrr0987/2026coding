@@ -7,6 +7,10 @@
 ### 735. Asteroid Collision
 ### 1066. Campus Bikes II
 ### 2488. Count Subarrays With Median K
+### 415. Add Strings
+### 551. Student Attendance Record I
+### 1180. Count Substrings with Only One Distinct Letter
+
 ## Two pointers challenge
 
 ### 792. Number of Matching Subsequences
