@@ -47,6 +47,9 @@
 ## Hash Map / Set
 ### 350. Intersection of Two Arrays II
 ### 2248. Intersection of Multiple Arrays
+### 219. Contains Duplicate II
+### 2357. Make Array Zero by Subtracting Equal Amounts
+### 3438. Find Valid Pair of Adjacent Digits in String
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
