@@ -51,6 +51,11 @@
 ### 2357. Make Array Zero by Subtracting Equal Amounts
 ### 3438. Find Valid Pair of Adjacent Digits in String
 
+## Stack 
+### 2126. Destroying Asteroids
+### 2211. Count Collisions on a Road
+### 2751. Robot Collisions
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
