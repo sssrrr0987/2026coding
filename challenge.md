@@ -56,6 +56,9 @@
 ### 2211. Count Collisions on a Road
 ### 2751. Robot Collisions
 ### 1047. Remove All Adjacent Duplicates In String
+### 471. Encode String with Shortest Length
+### 726. Number of Atoms
+### 1087. Brace Expansion
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
