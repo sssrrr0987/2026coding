@@ -60,6 +60,11 @@
 ### 726. Number of Atoms
 ### 1087. Brace Expansion
 
+## Queue
+### 901. Online Stock Span
+### 1483. Kth Ancestor of a Tree Node
+### 1396. Design Underground System
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
