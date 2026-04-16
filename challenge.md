@@ -65,6 +65,11 @@
 ### 1483. Kth Ancestor of a Tree Node
 ### 1396. Design Underground System
 
+## Binary Search Tree
+### 278. First Bad Version
+### 375. Guess Number Higher or Lower II
+### 658. Find K Closest Elements
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
