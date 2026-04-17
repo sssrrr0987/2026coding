@@ -65,10 +65,13 @@
 ### 1483. Kth Ancestor of a Tree Node
 ### 1396. Design Underground System
 
-## Binary Search Tree
+## Binary Search 
 ### 278. First Bad Version
 ### 375. Guess Number Higher or Lower II
 ### 658. Find K Closest Elements
+### 774. Minimize Max Distance to Gas Station
+### 2226. Maximum Candies Allocated to K Children
+### 2064. Minimized Maximum of Products Distributed to Any Store
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
