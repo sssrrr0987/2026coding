@@ -89,3 +89,8 @@
 ### 769. Max Chunks To Make Sorted
 ### 1561. Maximum Number of Coins You Can Get
 ### 2089. Find Target Indices After Sorting Array
+
+## Greedy
+### 1299. Replace Elements with Greatest Element on Right Side
+### 1855. Maximum Distance Between a Pair of Values
+### 2016. Maximum Difference Between Increasing Elements
