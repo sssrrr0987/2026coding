@@ -72,6 +72,9 @@
 ### 774. Minimize Max Distance to Gas Station
 ### 2226. Maximum Candies Allocated to K Children
 ### 2064. Minimized Maximum of Products Distributed to Any Store
+### 826. Most Profit Assigning Work
+### 2389. Longest Subsequence With Limited Sum
+### 2410. Maximum Matching of Players With Trainers
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
