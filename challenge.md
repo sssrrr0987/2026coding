@@ -75,6 +75,9 @@
 ### 826. Most Profit Assigning Work
 ### 2389. Longest Subsequence With Limited Sum
 ### 2410. Maximum Matching of Players With Trainers
+### 852. Peak Index in a Mountain Array
+### 1901. Find a Peak Element II
+### 2951. Find the Peaks
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
