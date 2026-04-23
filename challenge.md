@@ -79,6 +79,11 @@
 ### 1901. Find a Peak Element II
 ### 2951. Find the Peaks
 
+## Linked List
+### 92. Reverse Linked List II
+### 2074. Reverse Nodes in Even Length Groups
+### 2487. Remove Nodes From Linked List
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
