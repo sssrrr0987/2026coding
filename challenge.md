@@ -83,6 +83,9 @@
 ### 92. Reverse Linked List II
 ### 2074. Reverse Nodes in Even Length Groups
 ### 2487. Remove Nodes From Linked List
+### 19. Remove Nth Node From End of List
+### 203. Remove Linked List Elements
+### 876. Middle of the Linked List
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
