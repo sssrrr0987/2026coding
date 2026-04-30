@@ -89,6 +89,11 @@
 ### 3467. Transform Array by Parity
 ### 876. Middle of the Linked List
 
+## Binary Tree - DFS
+### 110. Balanced Binary Tree
+### 1376. Time Needed to Inform All Employees
+### 2458. Height of Binary Tree After Subtree Removal Queries
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
