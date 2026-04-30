@@ -93,6 +93,7 @@
 ### 110. Balanced Binary Tree
 ### 1376. Time Needed to Inform All Employees
 ### 2458. Height of Binary Tree After Subtree Removal Queries
+### 559. Maximum Depth of N-ary Tree
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
