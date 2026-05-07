@@ -97,6 +97,9 @@
 ### 427. Construct Quad Tree
 ### 951. Flip Equivalent Binary Trees
 ### 1743. Restore the Array From Adjacent Pairs
+### 565. Array Nesting
+### 711. Number of Distinct Islands II
+### 1586. Binary Search Tree Iterator II
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
