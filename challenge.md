@@ -100,6 +100,7 @@
 ### 565. Array Nesting
 ### 711. Number of Distinct Islands II
 ### 1586. Binary Search Tree Iterator II
+### 3417. Zigzag Grid Traversal With Skip
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
