@@ -114,6 +114,9 @@
 ### 3184. Count Pairs That Form a Complete Day I
 ### 3676. Count Bowl Subarrays
 ### 3730. Maximum Calories Burnt from Jumps
+### 286. Walls and Gates
+### 2101. Detonate the Maximum Bombs
+### 2258. Escape the Spreading Fire
 
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
