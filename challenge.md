@@ -101,6 +101,9 @@
 ### 711. Number of Distinct Islands II
 ### 1586. Binary Search Tree Iterator II
 ### 3417. Zigzag Grid Traversal With Skip
+### 323. Number of Connected Components in an Undirected Graph
+### 734. Sentence Similarity
+### 737. Sentence Similarity II
 
 ## Binary Search Tree
 ### 270. Closest Binary Search Tree Value
