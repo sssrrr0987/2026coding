@@ -50,6 +50,9 @@
 ### 219. Contains Duplicate II
 ### 2357. Make Array Zero by Subtracting Equal Amounts
 ### 3438. Find Valid Pair of Adjacent Digits in String
+### 520. Detect Capital
+### 2309. Greatest English Letter in Upper and Lower Case
+### 3121. Count the Number of Special Characters II
 
 ## Stack 
 ### 2126. Destroying Asteroids
