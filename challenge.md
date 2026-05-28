@@ -128,6 +128,11 @@
 ### 116. Populating Next Right Pointers in Each Node
 ### 545. Boundary of Binary Tree
 
+## 1D DP
+### 122. Best Time to Buy and Sell Stock II
+### 583. Delete Operation for Two Strings
+### 1401. Circle and Rectangle Overlapping
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
