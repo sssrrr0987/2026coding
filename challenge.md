@@ -133,6 +133,12 @@
 ### 583. Delete Operation for Two Strings
 ### 1401. Circle and Rectangle Overlapping
 
+## DP - Multidimensional
+### 63. Unique Paths II
+### 2304. Minimum Path Cost in a Grid
+### 2435. Paths in Matrix Whose Sum Is Divisible by K
+
+
 ## Sorting,Matrix 建表跟練習Map,Set
 ### 308. Range Sum Query 2D - Mutable
 ### 2449. Minimum Number of Operations to Make Arrays Similar
