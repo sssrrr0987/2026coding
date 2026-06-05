@@ -132,6 +132,9 @@
 ### 122. Best Time to Buy and Sell Stock II
 ### 583. Delete Operation for Two Strings
 ### 1401. Circle and Rectangle Overlapping
+### 256. Paint House
+### 276. Paint Fence
+### 656. Coin Path
 
 ## DP - Multidimensional
 ### 63. Unique Paths II
