@@ -43,6 +43,10 @@
 ### 2746. Decremental String Concatenation
 ### 3548. Equal Sum Grid Partition II
 ### 3737. Count Subarrays With Majority Element I
+### 1991. Find the Middle Index in Array
+### 2670. Find the Distinct Difference Array
+### 3179. Find the N-th Value After K Seconds
+
 
 ## Hash Map / Set
 ### 350. Intersection of Two Arrays II
