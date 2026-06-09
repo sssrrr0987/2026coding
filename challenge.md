@@ -112,6 +112,11 @@
 ### 734. Sentence Similarity
 ### 737. Sentence Similarity II
 
+## Heap / Priority Queue
+### 973. K Closest Points to Origin
+### 1985. Find the Kth Largest Integer in the Array
+### 2099. Find Subsequence of Length K With the Largest Sum
+
 ## Binary Search Tree
 ### 270. Closest Binary Search Tree Value
 ###　701. Insert into a Binary Search Tree
