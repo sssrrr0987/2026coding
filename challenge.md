@@ -157,6 +157,11 @@
 ### 2869. Minimum Operations to Collect Elements 完成
 ### 1441. Build an Array With Stack Operations
 
+## Backtracking
+### 22. Generate Parentheses
+### 401. Binary Watch
+### 3014. Minimum Number of Pushes to Type Word I
+
 ## 矩陣旋轉
 ### 48. Rotate Image
 ## DP 3維
